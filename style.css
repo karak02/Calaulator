@@ -1,0 +1,35 @@
+.container{
+  text-align: center;
+  color: darkcyan;
+}
+table{
+    margin: auto;
+    font-size: 20px;
+    background-color: rgb(21, 167, 224);
+    border-radius: 15px;
+    padding: 9px;
+   
+
+}
+button{
+    background-color: black;
+    color: white;
+    width: 84px;
+    height: 60px;
+    border-radius: 25px;
+    
+}
+
+input{
+    
+    font-size: 28px;
+    padding: 9px;
+    border-radius: 11px;
+    background-color: rgb(138, 208, 67);
+}
+.box{
+    display: inline-block;
+    background-color: slategrey;
+    padding: 42px;
+    border-radius: 37px;
+}
